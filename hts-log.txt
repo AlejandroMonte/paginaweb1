@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 30 Nov 2022 20:01:15 at http://institutomisionerosmonfortianos.drelm.edu.pe +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://institutomisionerosmonfortianos.drelm.edu.pe -O1 "C:\My Web Sites\proye" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:01:18	Warning: 	Note: due to institutomisionerosmonfortianos.drelm.edu.pe remote robots.txt rules, links beginning with these path will be forbidden: /includes/, /misc/, /modules/, /profiles/, /scripts/, /themes/, /CHANGELOG.txt, /cron.php, /INSTALL.mysql.txt, /INSTALL.pgsql.txt, /INSTALL.sqlite.txt, /install.php, /INSTALL.txt, /LICENSE.txt, /MAINTAINERS.txt, /update.php, /UPGRADE.txt, /xmlrpc.php, /admin/, /comment/reply/, /filter/tips/, /node/add/, /search/, /user/register/, /user/password/, /user/login/, /user/logout/, /?q=admin/, /?q=comment/reply/, /?q=filter/tips/, /?q=node/add/, /?q=search/, /?q=user/password/, /?q=user/register/, /?q=user/login/, /?q=user/logout/ (see in the options to disable this)
+20:30:09	Error: 	"Forbidden" (403) at link www.drelm.gob.pe/images/libro-reclamaciones.png (from institutomisionerosmonfortianos.drelm.edu.pe/)
+20:30:10	Error: 	"Not Found" (404) at link institutomisionerosmonfortianos.drelm.edu.pe/sites/all/themes/gavias_mdeal/css/fonts/glyphicons-halflings-regular.eot (from institutomisionerosmonfortianos.drelm.edu.pe/sites/institutomisionerosmonfortianos.drelm.edu.pe/files/css/css_agP3ke4zlCZeyGVdqdAjnkvDuRkmTes0MWxFcRkJkUs.css)
+20:30:10	Error: 	"Not Found" (404) at link institutomisionerosmonfortianos.drelm.edu.pe/sites/all/themes/gavias_mdeal/css/fonts/glyphicons-halflings-regular.eot? (from institutomisionerosmonfortianos.drelm.edu.pe/sites/institutomisionerosmonfortianos.drelm.edu.pe/files/css/css_agP3ke4zlCZeyGVdqdAjnkvDuRkmTes0MWxFcRkJkUs.css)
+20:30:10	Error: 	"Not Found" (404) at link institutomisionerosmonfortianos.drelm.edu.pe/sites/all/themes/gavias_mdeal/css/fonts/glyphicons-halflings-regular.woff (from institutomisionerosmonfortianos.drelm.edu.pe/sites/institutomisionerosmonfortianos.drelm.edu.pe/files/css/css_agP3ke4zlCZeyGVdqdAjnkvDuRkmTes0MWxFcRkJkUs.css)
+20:30:10	Error: 	"Not Found" (404) at link institutomisionerosmonfortianos.drelm.edu.pe/sites/all/themes/gavias_mdeal/css/fonts/glyphicons-halflings-regular.ttf (from institutomisionerosmonfortianos.drelm.edu.pe/sites/institutomisionerosmonfortianos.drelm.edu.pe/files/css/css_agP3ke4zlCZeyGVdqdAjnkvDuRkmTes0MWxFcRkJkUs.css)
+20:30:10	Error: 	"Not Found" (404) at link institutomisionerosmonfortianos.drelm.edu.pe/sites/all/themes/gavias_mdeal/css/fonts/glyphicons-halflings-regular.svg (from institutomisionerosmonfortianos.drelm.edu.pe/sites/institutomisionerosmonfortianos.drelm.edu.pe/files/css/css_agP3ke4zlCZeyGVdqdAjnkvDuRkmTes0MWxFcRkJkUs.css)
+20:30:10	Warning: 	File not parsed, looks like binary: institutomisionerosmonfortianos.drelm.edu.pe/sites/all/themes/gavias_mdeal/fonts/fontawesome-webfont.woff2?v=4.3.0
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 minutes 19 seconds : 200 links scanned, 193 files written (46282651 bytes overall) [45270632 bytes received at 24887 bytes/sec], 1604932 bytes transferred using HTTP compression in 16 files, ratio 21%, 2.2 requests per connection
+(6 errors, 2 warnings, 0 messages)
